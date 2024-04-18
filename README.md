@@ -22,5 +22,5 @@ Drum Kit Roll is a fun and interactive web application that allows users to play
 To try out Drum Kit Roll, simply clone this repository to your local machine and open the `index.html` file in your web browser. Alternatively, you can [view the live demo here](https://drum-kit-roll.vercel.app/).
 
 ```bash
-git clone https://github.com/your-username/drum-kit-roll.git
+git clone https://github.com/MrDiamond007/drum-kit-roll.git
 cd drum-kit-roll
